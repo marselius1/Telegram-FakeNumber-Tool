@@ -9,5 +9,8 @@
 
 [Buraya Tıkla Otomatik İndir](https://f-droid.org/repo/com.termux_118.apk)
 
-### Telegram Gurubumuz 
+#### Telegram Gurubumuz 
 
+#### Telegram Hesabım 
+
+#### Youtube Kanalımız 
