@@ -1,4 +1,3 @@
-openssl-tool
 pyfiglet
 telebot
 requests
