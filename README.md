@@ -1,4 +1,4 @@
-# Telegram-FakeNumber-Tool
+# Fake Number Tool
 
 ![Banner Resmi](https://github.com/marselius1/Telegram-FakeNumber-Tool/blob/main/images.png)
 ## Kurulum Kodları / Tıkla Kopyala 
