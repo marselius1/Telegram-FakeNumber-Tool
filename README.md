@@ -8,3 +8,6 @@
 ## Termux İndir 
 
 [Buraya Tıkla Otomatik İndir](https://f-droid.org/repo/com.termux_118.apk)
+
+### Telegram Gurubumuz 
+
