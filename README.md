@@ -12,6 +12,12 @@
 
 #### Telegram Gurubumuz 
 
+[>Tıkla ve Git](https://t.me/+t3ht0_8ItvpkN2M8)
+
 #### Telegram Hesabım 
 
+[>Tıkla ve Git](http://t.me/@Marsilyuss)
+
 #### Youtube Kanalımız 
+
+[>Tıkla ve Git](https://youtube.com/@Marsilyus?si=9ysz9drja164Kkyx)
